@@ -1,0 +1,3 @@
+- [ ] Get basic hello world qt project compiling/running
+- [ ] Set up BuildBuddy / bazel
+- [ ] Start working on Ray Tracing Challenge
